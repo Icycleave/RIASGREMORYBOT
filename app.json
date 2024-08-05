@@ -1,7 +1,7 @@
 {
-    "name": "RIAS_GREMORY-BOT v1.0",
+    "name": "𝙋𝙖𝙧𝙖𝙢𝙤𝙪𝙣𝙩-𝙈𝙙",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/EBUvKfB.jpeg",
+    "logo": "https://telegra.ph/file/26e9a2e7a4f1ffc45e734.mp4",
     "keywords": ["RIAS_GREMORY-BOT", "rais", "rais-Bot"],
     "success_url": "/",
     "stack": "container",
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "TOXXIC MD",
+        "value": " 𝑻𝒚𝒍𝒆𝒓",
         "required": true
       },
   
@@ -20,8 +20,8 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/EBUvKfB.jpeg",
-        "required": false
+        "value": "https://telegra.ph/file/26e9a2e7a4f1ffc45e734.mp4",
+        "required": true
       },
   
       "GOODBYE": {
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/EBUvKfB.jpeg"
+        "value": "https://telegra.ph/file/941a3ff12f1c75c25d032.mp4"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "RIAS_GREMORY-BOT"
+        "value": "𝙋𝙖𝙧𝙖𝙢𝙤𝙪𝙣𝙩-𝙢𝙙"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -99,15 +99,15 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": ""
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "33757054414"
+        "value": "2349060947343"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUtEa3VmQXNXeUEvbDNVQThyZGFGNUJNaGgvT05EdXpmclh3U0toQThXZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK1FWdFdkaWNrRFgzbG5CMFpmRXh0QjF2dWEwd1dEL1h5YVY5MklBUkVBND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2QkZOT3ZiT21LZytQRFZGa2RUdE9YZ2JNbDBrejk1NHVSSEpvejM4NGtvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpUE9rejdkNVlVcFhFbEpTdWgydzJXZHFGaEpsNXZSaHkvcVlCODFIWVVJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNGQUVYajg2aUJiQzdiU0JBQUhTdGM1aGFFdDVUcGhFLytTVXJuMGRGMGs9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik84UzVta0dkNmUxR0w3TkkrM3lZbHdHZCtwOXlIaWZEd3VCRTBYYUFTbkE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTU9acG9MalZYZ2dWZ3FzT3BNeEtRTG5DUmY4bThuK1A4NXVmcVdHREgyST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVE4zMXZXYTJZQi9GbFFkRFVKcHhHekdCY2ZsL1QyWTFtSFQrVVZJYTRtRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImJrNE02aVVzN2VHRDJqbDNia1FteDJldGwvcjFPaStwcU9peEc3UTkrTlhDeE5nUXlxWHBGM3huZ3ZJWkI3VDlRL0xRZ01Ncy8xYXE3MHgveU1xamlnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc4LCJhZHZTZWNyZXRLZXkiOiJ5VWRSQzdwclJ6Rmp4eitmbWsrMkcxa0poaXFvaFFrM0h6L2pRRnN3WCswPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjIzNDkwNjA5NDczNDNAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQjgwOTE3NkE2NjA5QkVGQjYyM0JCN0E5MkEzNzE3N0UifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMjg2OTE5MH0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0OTA2MDk0NzM0M0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIxRDU1RTEwNjdGNTc3MTNGOEI5M0UyNzNEOUY0RDdCMCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIyODY5MTkyfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzQ5MDYwOTQ3MzQzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjMyQTlCNUYyN0VBODg4QzU2NTAwOThGM0FFMEI2RTVBIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjI4NjkyMTl9XSwibmV4dFByZUtleUlkIjozMiwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMyLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Imc4NTBVbVhXU25pYkdCcHVueTRpWnciLCJwaG9uZUlkIjoiMTc4YTA3NTgtZmFhZi00MjU0LThmNjMtZTE0NjRiM2YzYjc2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ims2K2ZBMGtOVldETXZERmVZMzFoQzl0cGdtRT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0eTFRRVlQVFFnR3I2QXBVQXh4eG8xcHVNWVU9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiVE1DWUhaOFoiLCJtZSI6eyJpZCI6IjIzNDkwNjA5NDczNDM6MjhAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2ZhPCdmZjwnZmu8J2ZmPCdmaHwnZma8J2ZlvCdmavwnZmaIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPUDRqL1lHRUxUTHc3VUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJwcE9ZZXhiTWJuVnlvT05KaVRVV3JuaG9Wb3lOKzBSTUxDTnEvUUdtekd3PSIsImFjY291bnRTaWduYXR1cmUiOiJ5TGJzNUNIQ01qUGdrd0dCL1ZRc1ZyQk1CeFkxSmgwbGU1VXFtNTllVzNVaWlubVIrdEZDNW9wbUx5QUg1RENhU0tva3BveUdTdnRkMmZGYWhSZVhCUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWkMwVkpQSmVHNlgvR1VsYkkreVY3L0FlUTBpZUFZQndBNC9HLzZZbnptN01UQnhGTkRVNkJEQ280WXBHM200U28yWFlSR0llWnk4WEI0cEs4WjB6aXc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ5MDYwOTQ3MzQzOjI4QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmFhVG1Ic1d6RzUxY3FEalNZazFGcTU0YUZhTWpmdEVUQ3dqYXYwQnBzeHMifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjI4NjkzNzQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBQ3UzIn0="
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -115,13 +115,13 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Asta Md",
-        "required": false
+        "value": "一茶",
+        "required": true
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "",
-        "required": false
+        "value": "𝕿𝖞𝖑𝖊𝖗",
+        "required": true
       }
     },
     "addons": [{ "plan": "heroku-postgresql:basic" }],
